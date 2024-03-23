@@ -27,8 +27,7 @@ The program takes the speed of a car as input and determines the demerit points 
 ## Net Salary Calculator
 
 This is a JavaScript program to calculate an individual's net salary based on their basic salary and benefits, taking into account tax rates and deductions provided by KRA, NHIF, and NSSF.
-
-## Features
+The program includes functions that:
 
 - Calculates PAYE tax based on provided tax bands and relief.
 - Determines NHIF deductions according to the gross salary range.
