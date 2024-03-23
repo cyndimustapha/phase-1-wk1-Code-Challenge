@@ -42,4 +42,16 @@ Git
 
 ### Installation instruction
 ```
-Git clone 
+Git clone https://github.com/cyndimustapha/wk1-Code-Challenge.git
+
+```
+## Technologies used
+Javascript
+
+## Support and contact details
+github.com/cyndi-mustapha
+
+### License
+The content of this site is licensed under the MIT license
+Copyright (c) 2018.
+
