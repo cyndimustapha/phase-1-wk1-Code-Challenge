@@ -15,7 +15,7 @@ This is a JavaScript program that calculates the grade of a student based on the
 - D: 40 to 49
 - E: less than 40
 
-## Speeding Demerit Points Calculator
+## Speed Detector
 
 This is a simple JavaScript program that calculates demerit points for speeding violations based on the speed of a car.
 The program takes the speed of a car as input and determines the demerit points according to the following rules:
