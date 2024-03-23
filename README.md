@@ -34,3 +34,12 @@ The program includes functions that:
 - Computes NSSF deductions based on the employee contribution rate.
 - Provides the net salary after deducting PAYE, NHIF, and NSSF deductions.
 
+## Installation
+You use git clone to be able to download the documents in the GitHub
+
+## Installation Requirements
+Git
+
+### Installation instruction
+```
+Git clone 
