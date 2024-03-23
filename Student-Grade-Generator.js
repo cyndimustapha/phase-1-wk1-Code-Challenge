@@ -1,5 +1,7 @@
+// Importing 'readline' module
 const readline = require('readline');
 
+// Creating an interface for reading input from the command line
 const rl = readline.createInterface({
     input: process.stdin,
     output: process.stdout
@@ -7,10 +9,14 @@ const rl = readline.createInterface({
   
 // Prompt the user to input student marks
 rl.question("Enter the student's marks: ", function(answer) {
+    
+      // Parsing the input as a floating-point number
       let studentMarks = parseFloat(answer);
 
 
 let grade;
+
+//detemining grade
 if(studentMarks > 79){
 
     grade = 'A';
@@ -44,6 +50,7 @@ else{
 // Output the grade
 console.log("The student's grade is:", grade);
 
+//closing readline interface
 rl.close();
 
 });
