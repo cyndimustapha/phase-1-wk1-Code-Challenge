@@ -1,4 +1,4 @@
-# wk1-Code-Challenge
+# phase-1-wk1-Code-Challenge
 
 #### Date, 22/03/2024
 
@@ -49,7 +49,7 @@ Git clone https://github.com/cyndimustapha/wk1-Code-Challenge.git
 Javascript
 
 ## Support and contact details
-github.com/cyndi-mustapha
+https://github.com/cyndimustapha
 
 ### License
 The content of this site is licensed under the MIT license
