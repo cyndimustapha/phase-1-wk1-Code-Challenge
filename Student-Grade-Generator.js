@@ -9,8 +9,8 @@ const rl = readline.createInterface({
 
 // Prompt the user to input student marks
 rl.question("Enter the student's marks: ", function (answer) {
-  // Parsing the input as a floating-point number
-  let studentMarks = parseFloat(answer);
+  
+  let studentMarks = answer;
 
   if (studentMarks < 0 || studentMarks > 100) {
     console.log("Invalid input. Please enter a number between 0 and 100.");
