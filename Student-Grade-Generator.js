@@ -10,7 +10,7 @@ const rl = readline.createInterface({
 // Prompt the user to input student marks
 rl.question("Enter the student's marks: ", function (answer) {
   
-  let studentMarks = answer;
+  let studentMarks = parseFloat(answer);
 
   if (studentMarks < 0 || studentMarks > 100) {
     console.log("Invalid input. Please enter a number between 0 and 100.");
