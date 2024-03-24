@@ -45,7 +45,7 @@ Git
 Git clone https://github.com/cyndimustapha/phase-1-wk1-Code-Challenge.git
 
 ```
-#Live Link
+# Live Link
 https://cyndimustapha.github.io/phase-1-wk1-Code-Challenge/
 
 ## Technologies used
